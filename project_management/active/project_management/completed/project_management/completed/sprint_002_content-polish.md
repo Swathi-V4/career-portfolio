@@ -41,16 +41,3 @@ Strengthen portfolio credibility by replacing placeholders and improving project
 
 ## Completion Evidence
 Live URL: https://swathi-v4.github.io/career-portfolio/
-
-
-
-## Completion Evidence
-
-Live URL:
-https://swathi-v4.github.io/career-portfolio/
-
-Verified:
-- All placeholder (#) links removed
-- GitHub + Live Demo links functional
-- Project language strengthened
-- No scope creep introduced
