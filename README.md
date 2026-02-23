@@ -1,10 +1,14 @@
-## Live Site
+## Live Website
 https://swathi-v4.github.io/career-portfolio/
+
+---
 
 ## Reflection
 
-When I first started this portfolio site, my instinct was to try to get to the end result immediately. I wanted to get it done easily and though having AI help me through it all would be the best way. But I learned that this usually causes confusion or changes that don’t match what I actually want. AI can confuse my work because early on I’m still figuring out what I want and what looks good. So instead, I followed a more structured, spec-driven process.
+When I first started building this portfolio site, my instinct was to jump straight to the final result. I thought using AI to generate everything at once would make the process faster and easier. However, I quickly realized that this approach created confusion. Early in the project, I was still figuring out what I wanted the site to look like and how I wanted it structured. Without clear direction, AI suggestions sometimes introduced changes that did not align with my vision. This experience taught me that tools are most effective when guided by clear boundaries.
 
-First, I created a simple starting version of the site (a basic index.html) to make sure I could deploy something quickly. Then I focused on getting GitHub Pages working so I had a real live URL as proof that the site exists and updates correctly. After that foundation was working, I could improve the content without worrying about deployment problems.
+To solve this, I shifted to a structured, spec-driven workflow. I began by defining a simple specification outlining the required sections and overall visual goals. Then I created a basic index.html file and focused on deploying it through GitHub Pages as quickly as possible. Having a live URL early gave me proof that the site worked and allowed me to test updates immediately.
 
-This workflow helped me understand that AI (and even my own ideas) can drift if I don’t set clear boundaries. Having a a vison and sticking to it made it easier to stay focused: create the repo, add index.html, deploy with GitHub Pages, and then document the process in the README. The biggest thing I learned is that shipping in small steps is faster and less stressful than trying to perfect everything at once, and having a live site early makes it easier to test and improve.
+After deployment, I broke the work into focused sprints: building the MVP structure, refining content, and improving visual polish. Maintaining a project_management folder helped me keep only one sprint active at a time and prevented scope drift.
+
+The biggest lesson I learned is that shipping in small, controlled steps is more efficient and less stressful than trying to perfect everything at once. Planning first and deploying early made the development process clearer, more intentional, and more manageable.
